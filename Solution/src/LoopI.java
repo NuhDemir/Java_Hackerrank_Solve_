@@ -20,7 +20,7 @@ public class LoopI {
         for (int i=1; i<=10;i++){
             int result;
             result = N*i;
-            if (2<=N && N<=10){
+            if (2<=N && N<=20){
                 System.out.println(N+" x "+i+" = "+result);
             }
         }

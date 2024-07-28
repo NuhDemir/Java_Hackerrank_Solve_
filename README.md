@@ -1,6 +1,6 @@
 # Java Algorithms
 
-<img src="https://raw.githubusercontent.com/NuhDemir/Java_Algorithms/main/img/algorithms.jpg">
+<img src="https://raw.githubusercontent.com/NuhDemir/Java_Hackerrank_Solve_/main/img/solution.jpg">
 
 **Java Algorithms** repository'sine hoş geldiniz! Bu repo, çeşitli algoritma sorularını Java programlama dili kullanarak çözmeyi amaçlamaktadır. Algoritma ve veri yapıları konularında kendinizi geliştirmek ve problem çözme yeteneklerinizi artırmak için bu repo'dan faydalanabilirsiniz.
 
